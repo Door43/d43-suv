@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suv:home|Door43 (suv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suv|d43-suv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suv/archive/master.zip|d43-suv.zip]]
+
+**Recent Changes**
+{{changes>ns = suv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suv|Ethnologue data]]
+
